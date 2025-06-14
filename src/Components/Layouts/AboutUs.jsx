@@ -1,4 +1,3 @@
-
 import React from "react";
 import Footer from "./Footer";
 
@@ -17,10 +16,10 @@ const AboutUs = () => {
           <div className="grid gap-8 text-left text-gray-700 md:grid-cols-2">
             <div className="rounded-2xl bg-white p-6 shadow-md transition-shadow duration-300 hover:shadow-lg">
               <h3 className="mb-2 text-xl font-semibold text-blue-600">
-                What is MovieFinder?
+                What is MovieLookup?
               </h3>
               <p>
-                MovieFinder is a modern platform that helps you explore and
+                MovieLookup is a modern platform that helps you explore and
                 track the best movies across genres, languages, and trends — all
                 in one place.
               </p>
@@ -56,7 +55,7 @@ const AboutUs = () => {
               </h3>
               <p>
                 Whether you're planning your movie night or just browsing,
-                MovieFinder makes your decision easier with live search and a
+                MovieLookup makes your decision easier with live search and a
                 clean experience.
               </p>
             </div>
